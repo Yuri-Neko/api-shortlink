@@ -1,2 +1,1 @@
-# api-shortlink
-just testing
+Simple url shortener
